@@ -1,0 +1,3 @@
+[submodule "FaceX-Zoo"]
+	path = FaceX-Zoo
+	url = git@github.com:JDAI-CV/FaceX-Zoo.git
